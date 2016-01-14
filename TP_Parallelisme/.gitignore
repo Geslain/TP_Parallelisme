@@ -1,0 +1,8 @@
+# Ignore all
+*
+
+# Except
+!.gitignore
+!/src/
+!/nbproject/
+!build.xml
